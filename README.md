@@ -1,7 +1,7 @@
-# AHK-D4
+# AHK宏-D4 暗黑4 -Last Epoch 最后纪元
 
 #### 介绍
-* 暗黑破坏神IV，暗黑4， D4，Diablo IV AHK宏
+* 暗黑破坏神IV，暗黑4， D4，Diablo IV AHK宏， 最后纪元，Last Epoch
 * 相比D3增加了一个新的按键位（第五技能位），可以指定为任何键（如：将这个键设为space[躲避]，设置它自动释放）。
 
 #### 建议
