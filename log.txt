@@ -1,4 +1,4 @@
-[2025-03-03 00:47:59] 【Handle原始输出】
+[2025-03-05 02:15:33] 【Handle原始输出】
 No matching handles found.
 
 usage: handle [[-a [-l]] [-v|-vt] [-u] | [-c <handle> [-y]] | [-s]] [-p <process>|<pid>] [name] [-nobanner]
@@ -19,7 +19,7 @@ usage: handle [[-a [-l]] [-v|-vt] [-u] | [-c <handle> [-y]] | [-s]] [-p <process
   -nobanner  Do not display the startup banner and copyright message.
 
 No arguments will dump all file references.
-[2025-03-03 00:47:59] 启动成功：PID 82448 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN4.lnk
-  7EC: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+[2025-03-05 02:15:33] 启动成功：PID 38104 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN2.lnk
+  4E4: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
 
 Handle closed.
