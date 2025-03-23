@@ -1,4 +1,4 @@
-[2025-03-16 21:48:30] 【Handle原始输出】
+[2025-03-23 14:34:55] 【Handle原始输出】
 No matching handles found.
 
 usage: handle [[-a [-l]] [-v|-vt] [-u] | [-c <handle> [-y]] | [-s]] [-p <process>|<pid>] [name] [-nobanner]
@@ -19,25 +19,34 @@ usage: handle [[-a [-l]] [-v|-vt] [-u] | [-c <handle> [-y]] | [-s]] [-p <process
   -nobanner  Do not display the startup banner and copyright message.
 
 No arguments will dump all file references.
-[2025-03-16 21:48:30] 启动成功：PID 16012 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN.lnk
-  7E4: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+[2025-03-23 14:34:56] 启动成功：PID 6196 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN.lnk
+[2025-03-23 14:35:02] 【Handle原始输出】
+D2R.exe            pid: 6196   type: Event          7BC: \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+
+  7BC: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
 
 Handle closed.
-usage: handle [[-a [-l]] [-v|-vt] [-u] | [-c <handle> [-y]] | [-s]] [-p <process>|<pid>] [name] [-nobanner]
-  -a         Dump all handle information.
-  -l         Just show pagefile-backed section handles.
-  -c         Closes the specified handle (interpreted as a hexadecimal number).
-             You must specify the process by its PID. Requires administrator
-             rights.
-             WARNING: Closing handles can cause application or system instability.
-  -g         Print granted access.
-  -y         Don't prompt for close handle confirmation.
-  -s         Print count of each type of handle open.
-  -u         Show the owning user name when searching for handles.
-  -v         CSV output with comma delimiter.
-  -vt        CSV output with tab delimiter.
-  -p         Dump handles belonging to process (partial name accepted).
-  name       Search for handles to objects with <name> (fragment accepted).
-  -nobanner  Do not display the startup banner and copyright message.
+[2025-03-23 14:35:02] 启动成功：PID 11016 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN2.lnk
+[2025-03-23 14:35:11] 【Handle原始输出】
+D2R.exe            pid: 11016  type: Event          33C: \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
 
-No arguments will dump all file references.
+  33C: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+
+Handle closed.
+[2025-03-23 14:35:12] 启动成功：PID 18928 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN3.lnk
+[2025-03-23 14:35:17] 【Handle原始输出】
+D2R.exe            pid: 18928  type: Event          7CC: \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+
+  7CC: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+
+Handle closed.
+[2025-03-23 14:35:17] 启动成功：PID 19252 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN4.lnk
+  684: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+
+Handle closed.
+ 13C8: File  (R--)   D:\GameFile\D4\running\D4Auto.exe
+
+Handle closed.
+ 13A0: File  (R--)   D:\GameFile\D4\running\D4Auto.exe
+
+Handle closed.

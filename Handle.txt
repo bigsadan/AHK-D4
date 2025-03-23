@@ -1,1 +1,2 @@
-No matching handles found.
+D2R.exe            pid: 6196   type: File          13C8: D:\GameFile\D4\running\D4Auto.exe
+D2R.exe            pid: 19252  type: File          13A0: D:\GameFile\D4\running\D4Auto.exe
