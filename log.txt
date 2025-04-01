@@ -1,4 +1,4 @@
-[2025-03-30 19:28:04] 【Handle原始输出】
+[2025-04-01 21:17:34] 【Handle原始输出】
 No matching handles found.
 
 usage: handle [[-a [-l]] [-v|-vt] [-u] | [-c <handle> [-y]] | [-s]] [-p <process>|<pid>] [name] [-nobanner]
@@ -19,40 +19,58 @@ usage: handle [[-a [-l]] [-v|-vt] [-u] | [-c <handle> [-y]] | [-s]] [-p <process
   -nobanner  Do not display the startup banner and copyright message.
 
 No arguments will dump all file references.
-[2025-03-30 19:28:05] 启动成功：PID 16852 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN.lnk
-[2025-03-30 19:28:11] 【Handle原始输出】
-D2R.exe            pid: 16852  type: Event          7C8: \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+[2025-04-01 21:17:34] 启动成功：PID 5444 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN.lnk
+[2025-04-01 21:17:40] 【Handle原始输出】
+D2R.exe            pid: 5444   type: Event          7E4: \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
 
+  7E4: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+
+Handle closed.
+[2025-04-01 21:17:40] 启动成功：PID 10380 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN2.lnk
+[2025-04-01 21:17:46] 【Handle原始输出】
+D2R.exe            pid: 10380  type: Event          7E0: \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+
+  7E0: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+
+Handle closed.
+[2025-04-01 21:17:46] 启动成功：PID 3276 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN3.lnk
+[2025-04-01 21:17:52] 【Handle原始输出】
+D2R.exe            pid: 3276   type: Event          7DC: \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+
+  7DC: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+
+Handle closed.
+[2025-04-01 21:17:52] 启动成功：PID 10672 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN4.lnk
   7C8: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
 
 Handle closed.
-[2025-03-30 19:28:11] 启动成功：PID 32424 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN2.lnk
-[2025-03-30 19:28:17] 【Handle原始输出】
-D2R.exe            pid: 32424  type: Event          7D0: \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
-
-  7D0: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+ 165C: File  (R--)   D:\GameFile\D4\running\D4Auto.exe
 
 Handle closed.
-[2025-03-30 19:28:17] 启动成功：PID 34104 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN3.lnk
-[2025-03-30 19:28:23] 【Handle原始输出】
-D2R.exe            pid: 34104  type: Event          7C4: \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
-
-  7C4: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+ 1718: File  (R--)   D:\GameFile\D4\running\D4Auto.exe
 
 Handle closed.
-[2025-03-30 19:28:23] 启动成功：PID 24444 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN4.lnk
-  7D8: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+ 166C: File  (R--)   D:\GameFile\D4\running\D4Auto.exe
 
 Handle closed.
- 1430: File  (R--)   D:\GameFile\D4\running\D4Auto.exe
+ 1514: File  (R--)   D:\GameFile\D4\running\D4Auto.exe
 
 Handle closed.
-  524: File  (R--)   D:\GameFile\D4\running\D4Auto.exe
+usage: handle [[-a [-l]] [-v|-vt] [-u] | [-c <handle> [-y]] | [-s]] [-p <process>|<pid>] [name] [-nobanner]
+  -a         Dump all handle information.
+  -l         Just show pagefile-backed section handles.
+  -c         Closes the specified handle (interpreted as a hexadecimal number).
+             You must specify the process by its PID. Requires administrator
+             rights.
+             WARNING: Closing handles can cause application or system instability.
+  -g         Print granted access.
+  -y         Don't prompt for close handle confirmation.
+  -s         Print count of each type of handle open.
+  -u         Show the owning user name when searching for handles.
+  -v         CSV output with comma delimiter.
+  -vt        CSV output with tab delimiter.
+  -p         Dump handles belonging to process (partial name accepted).
+  name       Search for handles to objects with <name> (fragment accepted).
+  -nobanner  Do not display the startup banner and copyright message.
 
-Handle closed.
- 15D0: File  (R--)   D:\GameFile\D4\running\D4Auto.exe
-
-Handle closed.
- 152C: File  (R--)   D:\GameFile\D4\running\D4Auto.exe
-
-Handle closed.
+No arguments will dump all file references.
