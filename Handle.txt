@@ -1,5 +1,1 @@
-D2R.exe            pid: 6060   type: File          164C: D:\GameFile\D4\running\D4Auto.exe
-D2R.exe            pid: 12508  type: File          16A0: D:\GameFile\D4\running\D4Auto.exe
-D2R.exe            pid: 15544  type: File          1758: D:\GameFile\D4\running\D4Auto.exe
-D2R.exe            pid: 10072  type: File          13E0: D:\GameFile\D4\running\D4Auto.exe
-D2R.exe            pid: 7996   type: File          15D0: D:\GameFile\D4\running\D4Auto.exe
+D2R.exe            pid: 16648  type: File          1480: D:\GameFile\D4\running\D4Auto.exe

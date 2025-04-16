@@ -1,4 +1,4 @@
-[2025-04-11 21:50:16] 【Handle原始输出】
+[2025-04-16 20:43:38] 【Handle原始输出】
 No matching handles found.
 
 usage: handle [[-a [-l]] [-v|-vt] [-u] | [-c <handle> [-y]] | [-s]] [-p <process>|<pid>] [name] [-nobanner]
@@ -19,50 +19,24 @@ usage: handle [[-a [-l]] [-v|-vt] [-u] | [-c <handle> [-y]] | [-s]] [-p <process
   -nobanner  Do not display the startup banner and copyright message.
 
 No arguments will dump all file references.
-[2025-04-11 21:50:16] 启动成功：PID 6060 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN.lnk
-[2025-04-11 21:50:22] 【Handle原始输出】
-D2R.exe            pid: 6060   type: Event          7C4: \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+[2025-04-16 20:43:38] 启动成功：PID 10484 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN2.lnk
+[2025-04-16 20:43:44] 【Handle原始输出】
+D2R.exe            pid: 10484  type: Event          7CC: \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
 
-  7C4: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
-
-Handle closed.
-[2025-04-11 21:50:23] 启动成功：PID 12508 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN2.lnk
-[2025-04-11 21:50:28] 【Handle原始输出】
-D2R.exe            pid: 12508  type: Event          7C8: \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
-
-  7C8: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+  7CC: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
 
 Handle closed.
-[2025-04-11 21:50:28] 启动成功：PID 15544 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN3.lnk
-[2025-04-11 21:50:34] 【Handle原始输出】
-D2R.exe            pid: 15544  type: Event          7C8: \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
-
-  7C8: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
-
-Handle closed.
-[2025-04-11 21:50:34] 启动成功：PID 10072 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN4.lnk
-[2025-04-11 21:50:40] 【Handle原始输出】
-D2R.exe            pid: 10072  type: Event          7E0: \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+[2025-04-16 20:43:44] 启动成功：PID 1752 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN4.lnk
+[2025-04-16 20:43:49] 【Handle原始输出】
+D2R.exe            pid: 1752   type: Event          7E0: \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
 
   7E0: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
 
 Handle closed.
-[2025-04-11 21:50:40] 启动成功：PID 7996 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN5.lnk
-  340: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+[2025-04-16 20:43:50] 启动成功：PID 16648 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN5.lnk
+  7EC: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
 
 Handle closed.
- 164C: File  (R--)   D:\GameFile\D4\running\D4Auto.exe
-
-Handle closed.
- 16A0: File  (R--)   D:\GameFile\D4\running\D4Auto.exe
-
-Handle closed.
- 1758: File  (R--)   D:\GameFile\D4\running\D4Auto.exe
-
-Handle closed.
- 13E0: File  (R--)   D:\GameFile\D4\running\D4Auto.exe
-
-Handle closed.
- 15D0: File  (R--)   D:\GameFile\D4\running\D4Auto.exe
+ 1480: File  (R--)   D:\GameFile\D4\running\D4Auto.exe
 
 Handle closed.
