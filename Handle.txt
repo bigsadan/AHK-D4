@@ -1,1 +1,0 @@
-D2R.exe            pid: 16648  type: File          1480: D:\GameFile\D4\running\D4Auto.exe
