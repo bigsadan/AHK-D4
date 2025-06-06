@@ -1,4 +1,4 @@
-[2025-05-26 20:17:56] 【Handle原始输出】
+[2025-06-06 21:29:11] 【Handle原始输出】
 No matching handles found.
 
 usage: handle [[-a [-l]] [-v|-vt] [-u] | [-c <handle> [-y]] | [-s]] [-p <process>|<pid>] [name] [-nobanner]
@@ -19,7 +19,35 @@ usage: handle [[-a [-l]] [-v|-vt] [-u] | [-c <handle> [-y]] | [-s]] [-p <process
   -nobanner  Do not display the startup banner and copyright message.
 
 No arguments will dump all file references.
-[2025-05-26 20:17:56] 启动成功：PID 2592 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN3.lnk
-  7D0: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+[2025-06-06 21:29:11] 启动成功：PID 11916 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN.lnk
+[2025-06-06 21:29:17] 【Handle原始输出】
+D2R.exe            pid: 11916  type: Event          7C4: \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+
+  7C4: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+
+Handle closed.
+[2025-06-06 21:29:17] 启动成功：PID 960 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN2.lnk
+[2025-06-06 21:29:23] 【Handle原始输出】
+D2R.exe            pid: 960    type: Event          7D8: \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+
+  7D8: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+
+Handle closed.
+[2025-06-06 21:29:23] 启动成功：PID 17636 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN3.lnk
+[2025-06-06 21:29:29] 【Handle原始输出】
+D2R.exe            pid: 17636  type: Event          330: \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+
+  330: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+
+Handle closed.
+[2025-06-06 21:29:29] 启动成功：PID 18320 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN4.lnk
+[2025-06-06 21:29:35] 【Handle原始输出】
+D2R.exe            pid: 18320  type: Event          684: \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+
+  684: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+
+Handle closed.
+[2025-06-06 21:29:35] 启动成功：PID 19156 - D:\GameFile\D2\启动大菠萝2\WILL-SADAN5.lnk
+  4D8: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
 
 Handle closed.
