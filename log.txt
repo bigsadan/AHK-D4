@@ -1,10 +1,10 @@
-[2025-08-31 17:50:05] 【Handle原始输出】
-D2R.exe            pid: 17264  type: Event          788: \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+[2025-09-02 21:00:32] 【Handle原始输出】
+D2R.exe            pid: 3836   type: Event          7B8: \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
 
-  788: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+  7B8: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
 
 Handle closed.
-[2025-08-31 17:50:05] 启动成功：PID 14860 - C:\Users\admin\Desktop\2.lnk
+[2025-09-02 21:00:32] 启动成功：PID 8872 - C:\Users\admin\Desktop\3.lnk
 usage: handle [[-a [-l]] [-v|-vt] [-u] | [-c <handle> [-y]] | [-s]] [-p <process>|<pid>] [name] [-nobanner]
   -a         Dump all handle information.
   -l         Just show pagefile-backed section handles.
