@@ -1,10 +1,10 @@
-[2025-09-02 21:00:32] 【Handle原始输出】
-D2R.exe            pid: 3836   type: Event          7B8: \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+[2025-11-10 21:20:50] 【Handle原始输出】
+D2R.exe            pid: 18428  type: Event          7A0: \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
 
-  7B8: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+  7A0: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
 
 Handle closed.
-[2025-09-02 21:00:32] 启动成功：PID 8872 - C:\Users\admin\Desktop\3.lnk
+[2025-11-10 21:20:50] 启动成功：PID 12692 - D:\GameFile\D2CN\shotcut\4.lnk
 usage: handle [[-a [-l]] [-v|-vt] [-u] | [-c <handle> [-y]] | [-s]] [-p <process>|<pid>] [name] [-nobanner]
   -a         Dump all handle information.
   -l         Just show pagefile-backed section handles.
