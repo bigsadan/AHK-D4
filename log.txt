@@ -1,10 +1,26 @@
-[2026-01-25 01:39:32] 【Handle原始输出】
-D2R.exe            pid: 12264  type: Event          7C0: \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+[2026-05-01 17:11:59] 【Handle原始输出】
+No matching handles found.
 
-  7C0: Event         \Sessions\1\BaseNamedObjects\DiabloII Check For Other Instances
+usage: handle [[-a [-l]] [-v|-vt] [-u] | [-c <handle> [-y]] | [-s]] [-p <process>|<pid>] [name] [-nobanner]
+  -a         Dump all handle information.
+  -l         Just show pagefile-backed section handles.
+  -c         Closes the specified handle (interpreted as a hexadecimal number).
+             You must specify the process by its PID. Requires administrator
+             rights.
+             WARNING: Closing handles can cause application or system instability.
+  -g         Print granted access.
+  -y         Don't prompt for close handle confirmation.
+  -s         Print count of each type of handle open.
+  -u         Show the owning user name when searching for handles.
+  -v         CSV output with comma delimiter.
+  -vt        CSV output with tab delimiter.
+  -p         Dump handles belonging to process (partial name accepted).
+  name       Search for handles to objects with <name> (fragment accepted).
+  -nobanner  Do not display the startup banner and copyright message.
 
-Handle closed.
-[2026-01-25 01:39:33] 启动成功：PID 19780 - D:\GameFile\D2CN\shotcut\1.lnk
+No arguments will dump all file references.
+[2026-05-01 17:12:00] 启动成功：PID 1496 - D:\GameFile\D2CN\shotcut\1.lnk
+[2026-05-01 17:12:10] 窗口等待超时
 usage: handle [[-a [-l]] [-v|-vt] [-u] | [-c <handle> [-y]] | [-s]] [-p <process>|<pid>] [name] [-nobanner]
   -a         Dump all handle information.
   -l         Just show pagefile-backed section handles.
